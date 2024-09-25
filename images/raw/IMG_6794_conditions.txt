@@ -1,0 +1,12 @@
+- Fecha: '2024-09-06'
+- Hora: '16:29:36'
+- Condición del cielo: soleado sin nubes
+
+- Cámara utilizada: 'Canon EOS REBEL T5i'                                                 
+- Tiempo de exposición: 1/16 segundos (0.0625s)                                                 
+- ISO: 100                                                              
+- Apertura: 7.0                                                         
+- Distancia focal: 55
+
+- Dirección que apuntaba el espectro-caño-grafo: pared del edifico de enfrente
+- Color del objeto apuntado: beige (código hexadecimal #F5F5DC)

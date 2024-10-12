@@ -1,0 +1,9 @@
+Medido el 3/8/24.
+
+Apuntamos al piso de la terraza del observatorio, 160º de acimut (convenio NESO).
+
+El Tiempo era soleado y sin nubes (Diafano).
+
+Hora en que tomamos la fotografia: 16:11.
+
+El ángulo con el que inclinamos la imágen en fittswok fue de -0.91º.

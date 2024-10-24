@@ -1,0 +1,32 @@
+Contador de elementos: 
+
+Cr I: 2
+
+H-Alfa: 1
+
+H-beta: 1
+
+Fe I: 11
+
+Ti I: 1
+
+Ni I: 1
+
+Mg I: 1
+
+MgH A: 1
+
+Nd II: 1
+
+Fe II: 1
+
+Ca I: 2
+
+C2 Swan: 1
+
+Na I: 1
+
+Co I: 1
+
+
+
